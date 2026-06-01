@@ -1,0 +1,1 @@
+This file will be a public repositories of the predictions made by my CS2 prediction model.
